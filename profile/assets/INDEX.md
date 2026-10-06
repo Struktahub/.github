@@ -6,4 +6,3 @@ All products use the approved Strukta building emblem. Only the accented suffix 
 - `strukta-emblem.svg` / `strukta-emblem.png`: shared building emblem.
 - `strukta-banner.svg` / `strukta-banner.png`: profile hero.
 - `strukta.svg`, `struktaone.svg`, `struktaflow.svg`, `struktalog.svg`: wordmarks with the same emblem and lettering.
-

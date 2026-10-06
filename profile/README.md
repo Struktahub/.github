@@ -27,4 +27,3 @@ StruktaOne, StruktaFlow and StruktaLog are in development. Product access and re
 StruktaOne and StruktaLog focus on construction. StruktaFlow supports workflows across industries. Each product has its own scope; cross-product integrations will be described as they become available.
 
 <p align="center"><strong>Strukta · Give work structure.</strong></p>
-

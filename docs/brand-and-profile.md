@@ -26,4 +26,3 @@ The avatar must be uploaded through organisation Settings → Profile. Keep rele
 ## Asset exports
 
 SVGs preserve the source building geometry. PNGs are raster exports of the SVGs using Sharp; the avatar uses a pale background for contrast.
-
